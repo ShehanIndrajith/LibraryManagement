@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\build",
+    "\\build\\classes",
+    "\\build\\generated-sources\\ap-source-output",
+    "\\dist",
+    "\\dist\\lib",
+    "\\src",
+    "\\src\\Icons",
+    "\\src\\JFrame",
+    "\\src\\library_management_system"
+  ],
+  "SelectedNode": "\\dist\\lib\\mysql-connector-j-8.0.33.zip",
+  "PreviewInSolutionExplorer": false
+}
